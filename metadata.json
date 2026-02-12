@@ -1,0 +1,8 @@
+{
+  "name": "HoopsAI - Fantasy Basketball Optimizer",
+  "description": "A premium, AI-powered fantasy basketball dashboard for Head-to-Head leagues, featuring real-time stat tracking, roster optimization, and matchup analysis.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
